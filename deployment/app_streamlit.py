@@ -50,7 +50,7 @@ st.markdown(
 def load_model():
     try:
         # Ganti 'model_iris.pkl' dengan nama file pickle Anda
-        with open("../models/model_pandas.pkl", "rb") as file:
+        with open("model_pandas.pkl", "rb") as file:
             model = pickle.load(file)
         return model
     except Exception as e:
