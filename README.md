@@ -48,7 +48,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di komputer Anda:
 
    ```bash
    git clone https://github.com/MadzAmm/Iris_Species_Predictor.git
-   cd Iris_Species_Predictor
+   cd data_iris_ml
    ```
 
 2. **Buat Virtual Environment (Opsional namun disarankan):**
@@ -78,4 +78,4 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi di komputer Anda:
 
 ---
 
-_Dibuat dengan ❤️ menggunakan Streamlit_
+_Dibuat dengan ❤️ menggunakan Streamlit oleh thinkermuumoo_
