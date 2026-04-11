@@ -1,3 +1,4 @@
+<img width="1920" height="948" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/d22a1ae2-6663-468f-bbad-2c3fde22da1d" />
 # 🌸 Iris Species Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
